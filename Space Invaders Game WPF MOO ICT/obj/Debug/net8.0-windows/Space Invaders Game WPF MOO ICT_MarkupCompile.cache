@@ -8,13 +8,13 @@ C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO 
 Space_Invaders_Game_WPF_MOO_ICT
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\App.xaml
 4-1839152765
 5-101186322
-9636693316
-198-635017904
+151582329954
+396-1270035808
 InifiniteMode.xaml;JanelaInimigos.xaml;MainWindow.xaml;TelaPrincipal.xaml;
 
-False
+True
 

@@ -1,11 +1,3 @@
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\InifiniteMode.g.cs
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\JanelaInimigos.g.cs
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\TelaPrincipal.g.cs
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT_Content.g.cs
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT_MarkupCompile.cache
-C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT_MarkupCompile.lref
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\bin\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT.exe
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\bin\Debug\net8.0-windows\music\AdhesiveWombat - Night Shade.mp3
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\bin\Debug\net8.0-windows\music\AdhesiveWombat-Night-Shade.wav
@@ -16,6 +8,14 @@ C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO 
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\bin\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT.runtimeconfig.json
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\bin\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT.dll
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\bin\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT.pdb
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\InifiniteMode.g.cs
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\JanelaInimigos.g.cs
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\TelaPrincipal.g.cs
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT_Content.g.cs
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT_MarkupCompile.cache
+C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\Space Invaders Game WPF MOO ICT_MarkupCompile.lref
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\InifiniteMode.baml
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\JanelaInimigos.baml
 C:\Users\ph024\Desktop\Trabalho-POO-2\Trabalho-POO2\Space Invaders Game WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.baml

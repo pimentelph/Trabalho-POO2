@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|c:\\users\\ph024\\desktop\\trabalho-poo-2\\trabalho-poo2\\space invaders game wpf moo ict\\telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|solutionrelative:telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|c:\\users\\ph024\\desktop\\trabalho-poo-2\\trabalho-poo2\\space invaders game wpf moo ict\\inifinitemode.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|solutionrelative:inifinitemode.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|c:\\users\\ph024\\desktop\\trabalho-poo-2\\trabalho-poo2\\space invaders game wpf moo ict\\telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|solutionrelative:telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9603F2DF-C30A-4B32-96CE-6DE1CF724271}|Space Invaders Game WPF MOO ICT.csproj|c:\\users\\ph024\\desktop\\trabalho-poo-2\\trabalho-poo2\\space invaders game wpf moo ict\\inifinitemode.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TelaPrincipal.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\TelaPrincipal.xaml.cs",
               "RelativeDocumentMoniker": "TelaPrincipal.xaml.cs",
               "ToolTip": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\TelaPrincipal.xaml.cs",
               "RelativeToolTip": "TelaPrincipal.xaml.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAAD0AAAApAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwD0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T11:41:11.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InifiniteMode.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\InifiniteMode.xaml.cs",
               "RelativeDocumentMoniker": "InifiniteMode.xaml.cs",
               "ToolTip": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\InifiniteMode.xaml.cs",
               "RelativeToolTip": "InifiniteMode.xaml.cs",
-              "ViewState": "AQIAALwAAAAAAAAAAAAAAN4AAAAwAAAA",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAYwO4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T11:01:14.979Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "ToolTip": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\InifiniteMode.xaml",
               "RelativeToolTip": "InifiniteMode.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T11:00:01.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T11:00:01.401Z"
             }
           ]
         }
