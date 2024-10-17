@@ -52,5 +52,16 @@ namespace Space_Invaders_Game_WPF_MOO_ICT
         {
             this.Close();
         }
+
+        private void InfiniteMode(object sender, RoutedEventArgs e)
+        {
+            InfiniteMode novaTelaInfinita = new InfiniteMode();
+
+            novaTelaInfinita.Show();
+
+            backgroundMusicPlayer.Stop();
+
+            this.Close();
+        }
     }
 }

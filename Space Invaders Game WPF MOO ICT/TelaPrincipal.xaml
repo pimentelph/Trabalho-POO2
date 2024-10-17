@@ -20,12 +20,20 @@
                 </LinearGradientBrush>
             </Button.BorderBrush>
         </Button>
-        <Button Content="Exit" HorizontalAlignment="Center" Margin="0,273,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Nachlieli CLM BoldOblique" Click="FecharJogo">
+        <Button Content="Exit" HorizontalAlignment="Center" Margin="0,326,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Nachlieli CLM BoldOblique" Click="FecharJogo">
             <Button.BorderBrush>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF27B5D1"/>
                     <GradientStop Color="White" Offset="1"/>
                     <GradientStop Color="#FF16535F" Offset="0.987"/>
+                </LinearGradientBrush>
+            </Button.BorderBrush>
+        </Button>
+        <Button Content="Infinite Mode" HorizontalAlignment="Center" Margin="0,274,0,0" VerticalAlignment="Top" FontSize="36" FontFamily="Nachlieli CLM BoldOblique" Click="InfiniteMode">
+            <Button.BorderBrush>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF16535F" Offset="0.993"/>
+                    <GradientStop Color="#FF27B5D1" Offset="0"/>
                 </LinearGradientBrush>
             </Button.BorderBrush>
         </Button>

@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="InifiniteMode.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="JanelaInimigos.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -15,6 +18,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="InifiniteMode.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="JanelaInimigos.xaml">
       <SubType>Designer</SubType>
     </Page>

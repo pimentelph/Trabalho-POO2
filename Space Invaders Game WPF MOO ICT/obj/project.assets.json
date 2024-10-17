@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ph024\\Desktop\\Space Invaders Game WPF MOO ICT\\Space Invaders Game WPF MOO ICT.csproj",
+      "projectUniqueName": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\Space Invaders Game WPF MOO ICT.csproj",
       "projectName": "Space Invaders Game WPF MOO ICT",
-      "projectPath": "C:\\Users\\ph024\\Desktop\\Space Invaders Game WPF MOO ICT\\Space Invaders Game WPF MOO ICT.csproj",
+      "projectPath": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\Space Invaders Game WPF MOO ICT.csproj",
       "packagesPath": "C:\\Users\\ph024\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ph024\\Desktop\\Space Invaders Game WPF MOO ICT\\obj\\",
+      "outputPath": "C:\\Users\\ph024\\Desktop\\Trabalho-POO-2\\Trabalho-POO2\\Space Invaders Game WPF MOO ICT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ph024\\AppData\\Roaming\\NuGet\\NuGet.Config",

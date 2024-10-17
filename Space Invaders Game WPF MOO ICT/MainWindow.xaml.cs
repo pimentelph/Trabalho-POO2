@@ -56,7 +56,7 @@ namespace Space_Invaders_Game_WPF_MOO_ICT
 
             // Configurar e iniciar o MediaPlayer para tocar em loop
             backgroundMusicPlayer.Open(new Uri(caminhoArquivo));
-            backgroundMusicPlayer.Volume = 0.5;
+            backgroundMusicPlayer.Volume = 0.7;
             backgroundMusicPlayer.MediaEnded += (s, e) => backgroundMusicPlayer.Position = TimeSpan.Zero; // Reinicia quando terminar
             backgroundMusicPlayer.Play();
         }
