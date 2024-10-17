@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Space_Invaders_Game_WPF_MOO_ICT</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\invader1.gif" />
+    <None Remove="images\invader2.gif" />
+    <None Remove="images\invader3.gif" />
+    <None Remove="images\invader4.gif" />
+    <None Remove="images\invader5.gif" />
+    <None Remove="images\invader6.gif" />
+    <None Remove="images\invader7.gif" />
+    <None Remove="images\invader8.gif" />
+    <None Remove="images\player.png" />
+    <None Remove="music\AdhesiveWombat - Night Shade.mp3" />
+    <None Remove="music\AdhesiveWombat-Night-Shade.wav" />
+    <None Remove="music\retro-laser-1-236669.wav" />
+    <None Remove="Odyssey - John Tasoulas.mp3" />
+    <None Remove="Odyssey-John-Tasoulas.wav" />
+    <None Remove="spaceImage.jpg" />
+    <None Remove="spaceimage2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\invader1.gif" />
+    <Resource Include="images\invader2.gif" />
+    <Resource Include="images\invader3.gif" />
+    <Resource Include="images\invader4.gif" />
+    <Resource Include="images\invader5.gif" />
+    <Resource Include="images\invader6.gif" />
+    <Resource Include="images\invader7.gif" />
+    <Resource Include="images\invader8.gif" />
+    <Resource Include="images\player.png" />
+    <Content Include="music\AdhesiveWombat - Night Shade.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="music\AdhesiveWombat-Night-Shade.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="music\Odyssey - John Tasoulas.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="music\Odyssey-John-Tasoulas.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="music\retro-laser-1-236669.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="spaceImage.jpg" />
+    <Resource Include="spaceimage2.jpg" />
+  </ItemGroup>
+
+</Project>
